@@ -1,6 +1,8 @@
 
 October, 3rd, 2021
 
+Jonathan Mikkila
+Cohort 1
 
 ## Student Career Goal Statement 
 
