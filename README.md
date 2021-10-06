@@ -1,2 +1,3 @@
 # Week_0
-Student Material Week 0
+
+Material relevant for week 0 assignments.
