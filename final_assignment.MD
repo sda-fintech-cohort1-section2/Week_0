@@ -20,10 +20,10 @@ Cohort < 1/2 >
   __Student_TODO:__
 
   - Degrees Completed:    
-        (BS' Computer Science '14, MSc Computer Engineering 15', PhD Finance '21).
+        < eg: BSc Computer Science '14, MSc Computer Engineering 15', PhD Finance '21 >
   - Top 3 Technical skills:    
-        (eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc).
+        < eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc. >
   - Top 3 Personal strengths:   
-       (eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc).
+       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
   - Top 3 Interests in Fintech:    
-       (eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc). 
+       < eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc >
