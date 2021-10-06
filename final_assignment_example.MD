@@ -16,7 +16,7 @@ Cohort 1
 ### Student mini-CV:
 
  - Degrees Completed:  
-    BHnrs Cognitive Science '12; GradDip Neruoscience , cand. '15; MA Psychology, cand. '15; ExEd Algorthmic Trading '18.
+    B(Hons) Cognitive Science '12; GradDip Neruoscience , cand. '15; MA Psychology, cand. '15; ExEd Algorthmic Trading '18.
 - Top 3 Technical skills:  
     Python, Data Science, Machine Learning.
 - Top 3 Personal strengths:  
