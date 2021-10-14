@@ -7,11 +7,11 @@ Cohort 1
 ## Student Career Goal Statement 
 
      
-  In the next decade I would like to expand my machine learning startup to be a key strategic partner 
-  with one or more international hedge funds. Specifically I would like to be offering first in class
-  real-time analytic services leveraging proprietary state of the art machine learning technology.
-  Specifically we would like to make advances in the more difficult areas of price-dynamic and volatility 
-  forecasting. 
+  I'm a Computer Science and Engineering graduate from **U, '18.
+  I have yet to start working, but I would be very excited to particpate in
+  trading and sales in corporate fixed income products. Specifcally related to 
+  insurance. For this course I would love to get more experience with analyzing data
+  with Python and using Machine Learning. 
 
 ### Student mini-CV:
 
